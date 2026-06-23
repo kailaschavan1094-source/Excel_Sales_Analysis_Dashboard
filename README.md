@@ -1,5 +1,5 @@
 # Excel Sales Analysis Dashboard
-
+![Dashboard Screenshot](Sales Analysis Dashboard.png)
 ## Project Overview
 This project analyzes Superstore sales data using Microsoft Excel.
 
