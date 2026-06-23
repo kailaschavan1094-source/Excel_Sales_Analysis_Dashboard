@@ -1,32 +1,29 @@
-# Excel Sales Analysis Dashboard
-![Dashboard Screenshot](./Sales%20Analysis%20Dashboard.png)
+# SQL Sales Analysis Project
+
 ## Project Overview
-This project analyzes Superstore sales data using Microsoft Excel.
-
-## KPIs
-- Total Sales: 22,96,195
-- Total Profit: 2,86,241
-- Total Quantity: 37,820
-
-## Dashboard Features
-- Sales by Category
-- Profit by Category
-- Profit by Region
-- KPI Cards
-- Key Business Insights
+This project analyzes Superstore sales data using PostgreSQL and Excel Dashboard.
 
 ## Tools Used
+- PostgreSQL
+- pgAdmin 4
 - Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Dashboard Design
 
-## Key Insights
-1. Technology category generated the highest sales.
-2. Technology category generated the highest profit.
-3. Office Supplies generated good profit.
-4. Furniture generated high sales but lower profit.
-5. West region contributed the highest profit.
+## Key Analysis
+- Category-wise Sales Analysis
+- Category-wise Profit Analysis
+- Region-wise Sales Analysis
+- Region-wise Profit Analysis
+- Top Selling Sub-Categories
+- Top Profitable Sub-Categories
+- Discount Analysis
+- Profit Margin Analysis
+- CTE and Window Functions
+
+## Files Included
+- superstore.csv
+- superstore_sales_analysis.sql
+- Excel_Sales_Analysis_Dashboard.xlsx
+- Sales Analysis Dashboard.png
 
 ## Author
 Kailas Chavan
