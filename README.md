@@ -1,6 +1,12 @@
 # Excel Sales Analysis Dashboard
-![Sales Dashboard](./Sales%20Analysis%20Dashboard.png)
 
+## Dashboard Screenshots
+
+### Main Dashboard
+![Main Dashboard](Screenshot%202026-06-24%20124032.png)
+
+### Interactive Dashboard with Slicers
+![Interactive Dashboard](Screenshot%202026-06-24%20124111.png)
 ## Project Overview
 This project analyzes Superstore sales data using Excel.
 
