@@ -61,7 +61,7 @@ Supestore Sales Analytics
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Screenshot%202026-07-18%20154005.png
+![Dashboard](Screenshot%202026-07-18%20154143.png)
 
 ---
 
