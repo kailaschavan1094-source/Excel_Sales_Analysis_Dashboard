@@ -55,13 +55,13 @@ This project analyzes Superstore Sales data using Microsoft Excel. The dashboard
 ---
 
 ## 📂 Dataset
-Superstore Sales Dataset
+Supestore Sales Analytics
 
 ---
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Sales Analysis Dashboard.png)
+![Dashboard](Screenshot 2026-07-18 154143.png)
 
 ---
 
